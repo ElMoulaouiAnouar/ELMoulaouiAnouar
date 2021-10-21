@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+
+<img
+  align="center"
+  src="https://www.wallpaperflare.com/static/773/663/764/programming-php-code-developer-wallpaper.jpg"
+/>
