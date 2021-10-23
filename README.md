@@ -30,15 +30,15 @@ Here are some ideas to get you started:
 
 ## Skills
 <span>
-  <img src="https://api.iconify.design/logos:php.svg" alt="PostgreSQL" width=48 height=48>
+    <img src="https://api.iconify.design/logos:php.svg" alt="php" width=48 height=48>
   <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=48 height=48>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" width=48 height=48>
   <img src="https://api.iconify.design/logos:c.svg" alt="C" width=48 height=48>
   <img src="https://api.iconify.design/logos:c-sharp.svg" alt="C#" width=48 height=48>
-<img src="https://api.iconify.design/logos:css-3.svg" alt="PostgreSQL" width=48 height=48>
-  <img src="https://api.iconify.design/logos:laravel.svg" alt="PostgreSQL" width=48 height=48>
-  <img src="https://api.iconify.design/logos:mysql.svg" alt="PostgreSQL" width=48 height=48>
-  <img src="https://api.iconify.design/logos:bootstrap.svg" alt="PostgreSQL" width=48 height=48>
+<img src="https://api.iconify.design/logos:css-3.svg" alt="css3" width=48 height=48>
+  <img src="https://api.iconify.design/logos:laravel.svg" alt="laravel" width=48 height=48>
+  <img src="https://api.iconify.design/logos:mysql.svg" alt="mysql" width=48 height=48>
+  <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width=48 height=48>
   <img src="https://api.iconify.design/logos:git-icon.svg" alt="Git" width=48 height=48>
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="HTML" width=48 height=48>
 
