@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi There 👋,El Moulaoui Anouar</h1>
+<h1 align="center">Hi There <img src="https://github.com/ElMoulaouiAnouar/ELMoulaouiAnouar/blob/main/wave.gif" width="40px">,El Moulaoui Anouar</h1>
 
 ## Contact On
 
