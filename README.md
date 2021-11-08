@@ -15,33 +15,39 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi there 👋,El Moulaoui Anouar</h1>
+<h1 align="center">Hi There 👋,El Moulaoui Anouar</h1>
+
+## Contact On
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ma.linkedin.com/in/anouar-el-moulaoui-9382a8209/)](https://ma.linkedin.com/in/anouar-el-moulaoui-9382a8209/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=elmoulaoui.anouar@gmail.com)](elmoulaoui.anouar@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088CC?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/spoo.pow.96/)](https://www.facebook.com/spoo.pow.96/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-0088CC?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/anouarmoulaoui/)](https://twitter.com/anouarmoulaoui/)
 
 
 <p align="center">
-  <a href="https://www.facebook.com/spoo.pow.96">Facebook</a> •
-  <a href="https://twitter.com/anouarmoulaoui">Twitter</a> •
-  <a href="https://ma.linkedin.com/in/anouar-el-moulaoui-9382a8209">Linkedin</a>
+  <img align="center" width="100%" height="450px" alt="Skills" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </p>
 
-<p align="center">
-  <img align="center" width="100%" alt="Skills" src="https://assets.skyfilabs.com/images/blog/8-skills-you-should-develop-to-become-a-front-end-developer.webp" />
-</p>
 
-## Skills
-<span>
-    <img src="https://api.iconify.design/logos:php.svg" alt="php" width=48 height=48>
-  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=48 height=48>
-  <img src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" width=48 height=48>
-  <img src="https://api.iconify.design/logos:c.svg" alt="C" width=48 height=48>
-  <img src="https://api.iconify.design/logos:c-sharp.svg" alt="C#" width=48 height=48>
-<img src="https://api.iconify.design/logos:css-3.svg" alt="css3" width=48 height=48>
-  <img src="https://api.iconify.design/logos:laravel.svg" alt="laravel" width=48 height=48>
-  <img src="https://api.iconify.design/logos:mysql.svg" alt="mysql" width=48 height=48>
-  <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width=48 height=48>
-  <img src="https://api.iconify.design/logos:git-icon.svg" alt="Git" width=48 height=48>
-  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="HTML" width=48 height=48>
+## ⚡ Skills
 
- 
- 
-</span>
+![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
+![linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp)
+![C](https://img.shields.io/badge/-C-181717?style=flat-square&logo=C)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ELMoulaouiAnouar&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELMoulaouiAnouar&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ELMoulaouiAnouar)
+
