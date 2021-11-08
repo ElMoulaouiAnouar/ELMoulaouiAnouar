@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELMoulaouiAnouar&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ELMoulaouiAnouar)
+![GitHub followers](https://img.shields.io/github/followers/ELMoulaouiAnouar?style=social)
 
