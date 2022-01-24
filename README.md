@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp)
 ![C](https://img.shields.io/badge/-C-181717?style=flat-square&logo=C)
+</br>
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ELMoulaouiAnouar&count_private=true&show_icons=true&include_all_commits=true)
 
