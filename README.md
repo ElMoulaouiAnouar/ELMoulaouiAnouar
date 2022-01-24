@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ELMoulaouiAnouar)
 ![GitHub followers](https://img.shields.io/github/followers/ELMoulaouiAnouar?style=social)
 
+<img src="https://github.com/ElMoulaouiAnouar/ELMoulaouiAnouar/blob/main/cv_img.jpg" alt="elmoulaoui anouar">
+
