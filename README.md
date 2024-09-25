@@ -36,6 +36,7 @@ I am a software engineer passionate about technology and problem-solving. I have
 - ☁️ **Cloud Computing**: AWS, IBM, Azure, GCP
 - 🤖 **Artificial Intelligence (AI)**
 - 🔄 **Microservices**
+- 🌐 Web 3 (Blockchain)
 
 
 
